@@ -1,3 +1,3 @@
-# brf99_cmpinf401
+# Brian Fang
 
-Brian Fang
+CMPINF 0401
