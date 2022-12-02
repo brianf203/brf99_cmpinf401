@@ -1,0 +1,20 @@
+Filet Mignon@@entree@@8 ounces of our finest and most tender cut of beef@@270@@22.00
+Grilled Cod@@entree@@6 ounces of grilled cod cooked to perfection@@160@@19.00
+Turkey Sliders@@entree@@Mini burgers with turkey and coleslaw@@210@@14.50
+Chicken Sate Skewers@@entree@@Sweet Malay chicken on skewers@@240@@12.00
+Cheese Ravioli@@entree@@Crisp fried cheese ravioli@@260@@16.00
+Herb Roasted Potatoes@@side@@Slow roasted potatoes topped with parmesan cheese@@140@@7.10
+Roasted Broccoli@@side@@Oven roasted golden-brown broccoli@@80@@6.00
+Fried Rice@@side@@Stir fried vegetable fried rice@@190@@8.00
+Butternut Squash@@side@@Cinnamon roasted butternut squash@@120@@7.40
+Tater Tots@@side@@Deep fried golden-brown tater tots@@190@@6.00
+Ceaser Salad@@salad@@Romaine lettuce and croutons dressed with lemon juice@@100@@6.80
+Summer Asian Slaw@@salad@@Asian slaw with tahini miso dressing@@90@@6.25
+Broccoli Salad@@salad@@Classic broccoli salad with smoky roasted nuts@@110@@8.00
+Brussel Sprout Salad@@salad@@Shredded brussel sprouts with lemon dressing@@80@@7.50
+Kale Salad@@salad@@Crunchy veggies with tangy carrot ginger dressing@@90@@5.00
+Ice Cream@@dessert@@Rich and creamy vanilla ice cream@@150@@2.50
+Apple Pie@@dessert@@Classic apple pie with a buttery crust@@190@@2.90
+Cheesecake@@dessert@@A mix of sweet and soft cream cheese@@140@@3.00
+Pecan Pie@@dessert@@Sweet and syrupy pecan pie@@130@@2.50
+Carrot Cake@@dessert@@Dense and moist carrot cake@@140@@3.00
