@@ -1,0 +1,49 @@
+Menu@31627da1
+Entree: Deep fried chicken breasts. Deep fried chicken breasts using our traditional powder receipt.
+Side: Rice. Plain rice.
+Salad: Potato Salad. Potato Salad.
+Dessert: Fruit Salad. Oranges, bananas, apples, grapes, strawberries.
+1115
+24
+Menu@5bce398a
+Entree: Curry Chicken. Curry marinated chicken, cooked slowly in wood fire oven.
+Side: Rice. Plain rice.
+Salad: Potato Salad. Potato Salad.
+Dessert: Ice Cream. Choose among vanilla, mango, pineapple, chocolate and orange ice cream.
+1035
+21
+Menu@7bd6247a
+Entree: Curry Chicken. Curry marinated chicken, cooked slowly in wood fire oven.
+Side: Quinoa. Quinoa.
+Salad: Mixed Vegetables. Includes small tomatoes, lettuce, cucumber, spinach and arugula.
+Dessert: Chocolate Cake. Low calorie chocolate cake.
+835
+29
+Menu@3dddee78
+Entree: Curry Chicken. Curry marinated chicken, cooked slowly in wood fire oven.
+Side: Quinoa. Quinoa.
+Salad: Mixed Vegetables. Includes small tomatoes, lettuce, cucumber, spinach and arugula.
+Dessert: Chocolate Cake. Low calorie chocolate cake.
+835
+29
+Menu@1f700317
+Entree: Sirloin Steak. A delicious piece of 1/2 a pound of our carefully selected meat grilled and seasoned. Choose how much you want it cooked.
+Side: Grilled Potatoes. Boiled potatoes grilled in oven with a touch of butter.
+Salad: Soy bean sprout with corn. Soy bean sprout with corn and olives.
+Dessert: Ice Cream. Choose among vanilla, mango, pineapple, chocolate and orange ice cream.
+1550
+35
+Menu@35587b1a
+Entree: Griller Steak. Carefully selected prime quality steak griller to the point of your preference.
+Side: Rice. Plain rice.
+Salad: Mixed Vegetables. Includes small tomatoes, lettuce, cucumber, spinach and arugula.
+Dessert: Ice Cream. Choose among vanilla, mango, pineapple, chocolate and orange ice cream.
+1240
+28
+Menu@7f676c3f
+Entree: Griller Steak. Carefully selected prime quality steak griller to the point of your preference.
+Side: Grilled Potatoes. Boiled potatoes grilled in oven with a touch of butter.
+Salad: Soy bean sprout with corn. Soy bean sprout with corn and olives.
+Dessert: Chocolate Cake. Low calorie chocolate cake.
+1395
+32
